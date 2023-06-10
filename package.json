@@ -16,7 +16,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-pro": "^5.13.1",
     "bootstrap": "^4.5.0",
-    "gatsby": "^2.23.12",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-sass": "^2.3.10",
     "gatsby-source-filesystem": "^2.3.19",
     "jquery": "^3.5.1",
